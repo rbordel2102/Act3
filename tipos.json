@@ -1,0 +1,13 @@
+{
+    "numero": 42,
+    "cadena": "Hola Mundo",
+    "booleano": true,
+    "matriz": [1, 2, 3, 4, 5],
+    "objeto": {
+      "clave": "valor",
+      "subobjeto": {
+        "atributo": "dato"
+      }
+    },
+    "nulo": null
+  }
